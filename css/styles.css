@@ -5,3 +5,40 @@ h1 {
 h2 {
   font-family: Verdana, sans-serif;
 }
+
+.projectlist li {
+  font-weight: bolder;
+}
+
+.projectlist h5 {
+  font-style: italic;
+}
+
+.about li {
+  font-weight: bolder;
+}
+
+img {
+  float: right;
+  margin-left: 10px;
+}
+
+.projectbox {
+  margin: 15px;
+  margin-left: 0px;
+  border: 2px;
+  padding: 5px;
+  background-color: #ebf1f9;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
