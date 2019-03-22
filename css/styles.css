@@ -1,8 +1,18 @@
+body {
+  color: #393f4d;
+}
+
 h1 {
   font-family: Verdana, sans-serif;
+  text-align: center;
 }
 
 h2 {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+h3 {
   font-family: Verdana, sans-serif;
 }
 
