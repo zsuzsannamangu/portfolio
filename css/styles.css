@@ -94,3 +94,22 @@ ol {
 a:hover {
   text-decoration: none;
 }
+
+.button {
+  background-color: #efefef;
+  border: none;
+  color: #393f4d;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 23px;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.button:hover {
+  background-color: #caebf2;
