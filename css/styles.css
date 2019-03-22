@@ -8,6 +8,7 @@ h2 {
 
 .projectlist li {
   font-weight: bolder;
+  font-size: 20px;
 }
 
 .projectlist h5 {
@@ -21,14 +22,16 @@ h2 {
 img {
   float: right;
   margin-left: 10px;
+  margin-right: 15px;
 }
 
 .projectbox {
   margin: 15px;
   margin-left: 0px;
   border: 2px;
-  padding: 5px;
+  padding: 7px;
   background-color: #ebf1f9;
+  text-align: center;
 }
 
 ul {
@@ -41,4 +44,8 @@ ol {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+.aboutelements {
+  font-size: 17px;
 }
