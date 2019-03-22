@@ -40,7 +40,7 @@ h3 {
   margin-left: 0px;
   border: 2px;
   padding: 7px;
-  background-color: #ebf1f9;
+  background-color: #caebf2;
   text-align: center;
 }
 
@@ -84,10 +84,10 @@ ol {
   text-align: center;
   padding: 14px 16px;
   text decoration: none;
-  background-color: #ebf1f9;
+  background-color: #efefef;
 }
 
 .menu li a:hover {
-  background-color: #dccfec;
+  color: #ff3b3f;
   text-decoration: none;
 }
