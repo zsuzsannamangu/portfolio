@@ -3,17 +3,17 @@ body {
 }
 
 h1 {
-  font-family: Verdana, sans-serif;
+  font-family: Tahoma, sans-serif;
   text-align: center;
 }
 
 h2 {
-  font-family: Verdana, sans-serif;
+  font-family: Tahoma, sans-serif;
   text-align: center;
 }
 
 h3 {
-  font-family: Verdana, sans-serif;
+  font-family: Tahoma, sans-serif;
 }
 
 .projectlist li {
@@ -89,5 +89,8 @@ ol {
 
 .menu li a:hover {
   color: #ff3b3f;
+}
+
+a:hover {
   text-decoration: none;
 }
