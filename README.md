@@ -6,7 +6,7 @@
 
 ## Description
 
-_This website includes a list of projects I created, my education, skills and other experience._
+_This website includes a list of projects I created, my education, skills and other experience. This is the link to the site on GitHub pages: https://github.com/zsuzsannamangu/portfolio.git_
 
 ## Setup/Installation Requirements
 
